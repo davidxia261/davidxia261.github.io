@@ -114,3 +114,8 @@ tr {
     flex-grow: 1;
     flex-basis: 45%;
 }
+
+li.header3 {
+    font-weight: bold;
+    font-size: 1.17em;
+}
